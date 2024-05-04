@@ -6,7 +6,7 @@ import (
 	"github.com/wmnsk/go-pfcp/ie"
 	"github.com/wmnsk/go-pfcp/message"
 
-	"github.com/free5gc/go-upf/internal/report"
+	"github.com/ottoblep/go-upf/internal/report"
 )
 
 func (s *PfcpServer) handleSessionEstablishmentRequest(

@@ -1,4 +1,4 @@
-module github.com/free5gc/go-upf
+module github.com/ottoblep/go-upf
 
 go 1.21
 
